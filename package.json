@@ -17,7 +17,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": dfdeagle47/bootstrap-daterangepicker",
+    "bootstrap-daterangepicker": "dfdeagle47/bootstrap-daterangepicker",
     "jquery": "^2.1.4"
   },
   "peerDependencies": {
